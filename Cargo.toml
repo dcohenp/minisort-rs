@@ -1,0 +1,6 @@
+[package]
+name = "minisort"
+version = "0.1.0"
+authors = ["Daniel Cohen"]
+
+[dependencies]
